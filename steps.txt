@@ -1,0 +1,9 @@
+fork
+
+YOU MAKE CHANGES
+push to your fork
+create a pull request and merge
+
+EPHRAIM MAKES CHANGES
+sync fork
+git pull
