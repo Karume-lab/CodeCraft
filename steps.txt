@@ -1,8 +1,11 @@
 fork
 
 YOU MAKE CHANGES
-push to your fork
-create a pull request and merge
+create feature branch
+push to that branch
+merge branch changes to main branch in your fork
+
+create a pull request and merge to Ephraim
 
 EPHRAIM MAKES CHANGES
 sync fork
